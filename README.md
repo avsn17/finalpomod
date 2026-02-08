@@ -28,5 +28,29 @@ clone https://github.com/avsn17/finalpomod.git
 cd finalpomod
 
 2. Install DependenciesYou will need colorama for the aesthetics and blessed for the terminal handling.Bashpip install colorama blessed
-🎮 How to RunLaunch the mission control center:Bashpython3 finalpomod.py
-Hotkeys during "The Grind":M: Trigger an emergency meme (Use sparingly, don't be cooked).C: Change your mentor (Get a fresh perspective).X: Exit the dimension.📂 File Structurefinalpomod.py: The core engine.voyage_logs.json: Your persistent stats (Aura, Mentors, and Score). Do not delete if you want to keep your rank.🏛 The Mentor SystemYour "Aligned School" is calculated based on which philosopher's quotes you finish your sessions with most frequently.MentorPhilosophyVibeMarcus AureliusStoicismCalm focusMusashiStrategyEfficient actionNietzscheExistentialismPower & WillLao TzuTaoismEffortless flow☁️ Deployment & SyncingIf you have set up the sync_grind.sh script, your voyage_logs.json will automatically sync to GitHub, securing your aura on the cloud forever."An unexamined life is not worth living, but an unoptimized grind is just a skill issue." — Socrates (probably)
+🎮 How to RunLaunch the mission control center:
+
+Bashpython3 finalpomod.py
+
+Hotkeys during "The Grind":
+
+M: Trigger an emergency meme (Use sparingly, don't be cooked).
+
+C: Change your mentor (Get a fresh perspective).
+
+X: Exit the dimension.
+
+📂 File Structurefinalpomod.py: 
+
+The core engine.voyage_logs.json: Your persistent stats (Aura, Mentors, and Score). Do not delete if you want to keep your rank.
+
+🏛 The Mentor SystemYour "Aligned School" is calculated based on which philosopher's quotes you finish your sessions with most frequently.
+
+MentorPhilosophyVibe 
+
+☁️ Deployment & Syncing
+If you have set up the sync_grind.sh script
+
+ your voyage_logs.json will automatically sync to GitHub, securing your aura on the cloud forever.
+
+"An unexamined life is not worth living, but an unoptimized grind is just a skill issue." — Socrates (probably)
